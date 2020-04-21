@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebSocketClient-master.iml" filepath="$PROJECT_DIR$/WebSocketClient-master.iml" group="WebSocketClient-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/WebSocketClient-master-app.iml" filepath="$PROJECT_DIR$/app/WebSocketClient-master-app.iml" group="WebSocketClient-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/WebSocketClientDemo.iml" filepath="$PROJECT_DIR$/WebSocketClientDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
